@@ -1,0 +1,7 @@
+.bi::before, [class^="bi-"]::before, [class*=" bi-"]::before {
+    margin-right: 4rem;
+    text-decoration: none;
+   
+    margin-top: 2rem;
+    transition: all 0.2s;
+}
